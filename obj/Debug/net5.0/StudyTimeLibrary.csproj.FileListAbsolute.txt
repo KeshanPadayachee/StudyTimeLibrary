@@ -1,0 +1,63 @@
+C:\Users\Keshan\Desktop\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.deps.json
+C:\Users\Keshan\Desktop\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\StudyTimeLibrary\bin\Debug\net5.0\ref\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.pdb
+C:\Users\Keshan\Desktop\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.csproj.AssemblyReference.cache
+C:\Users\Keshan\Desktop\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keshan\Desktop\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.AssemblyInfoInputs.cache
+C:\Users\Keshan\Desktop\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.AssemblyInfo.cs
+C:\Users\Keshan\Desktop\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Keshan\Desktop\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\StudyTimeLibrary\obj\Debug\net5.0\ref\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.pdb
+C:\Users\Keshan\Desktop\PROG\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.deps.json
+C:\Users\Keshan\Desktop\PROG\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\PROG\StudyTimeLibrary\bin\Debug\net5.0\ref\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\PROG\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.pdb
+C:\Users\Keshan\Desktop\PROG\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.csproj.AssemblyReference.cache
+C:\Users\Keshan\Desktop\PROG\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keshan\Desktop\PROG\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.AssemblyInfoInputs.cache
+C:\Users\Keshan\Desktop\PROG\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.AssemblyInfo.cs
+C:\Users\Keshan\Desktop\PROG\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Keshan\Desktop\PROG\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\PROG\StudyTimeLibrary\obj\Debug\net5.0\ref\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\PROG\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.pdb
+C:\Users\Keshan\Desktop\PROG - Copy\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.deps.json
+C:\Users\Keshan\Desktop\PROG - Copy\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\PROG - Copy\StudyTimeLibrary\bin\Debug\net5.0\ref\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\PROG - Copy\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.pdb
+C:\Users\Keshan\Desktop\PROG - Copy\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.csproj.AssemblyReference.cache
+C:\Users\Keshan\Desktop\PROG - Copy\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keshan\Desktop\PROG - Copy\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.AssemblyInfoInputs.cache
+C:\Users\Keshan\Desktop\PROG - Copy\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.AssemblyInfo.cs
+C:\Users\Keshan\Desktop\PROG - Copy\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Keshan\Desktop\PROG - Copy\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\PROG - Copy\StudyTimeLibrary\obj\Debug\net5.0\ref\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\PROG - Copy\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.pdb
+C:\Users\Keshan\Desktop\Task 1\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.deps.json
+C:\Users\Keshan\Desktop\Task 1\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\Task 1\StudyTimeLibrary\bin\Debug\net5.0\ref\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\Task 1\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.pdb
+C:\Users\Keshan\Desktop\Task 1\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.csproj.AssemblyReference.cache
+C:\Users\Keshan\Desktop\Task 1\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keshan\Desktop\Task 1\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.AssemblyInfoInputs.cache
+C:\Users\Keshan\Desktop\Task 1\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.AssemblyInfo.cs
+C:\Users\Keshan\Desktop\Task 1\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Keshan\Desktop\Task 1\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\Task 1\StudyTimeLibrary\obj\Debug\net5.0\ref\StudyTimeLibrary.dll
+C:\Users\Keshan\Desktop\Task 1\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.pdb
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.deps.json
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\bin\Debug\net5.0\ref\StudyTimeLibrary.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.pdb
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.AssemblyInfoInputs.cache
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.AssemblyInfo.cs
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.csproj.CoreCompileInputs.cache
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\obj\Debug\net5.0\ref\StudyTimeLibrary.dll
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.pdb
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.runtimeconfig.json
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\bin\Debug\net5.0\StudyTimeLibrary.runtimeconfig.dev.json
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.genruntimeconfig.cache
+E:\Studies\Varsity College\Year 2\Semester 2\PROG6212 - Programming 2B\Portfolio Of Evidence\Task 2\StudyTimeLibrary\obj\Debug\net5.0\StudyTimeLibrary.csproj.AssemblyReference.cache
